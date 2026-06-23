@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "About me"
 
 date: 2026-06-23T16:00:00-04:00
 
@@ -8,10 +8,12 @@ draft: false
 layout: "single"
 ---
 
-<img src="/images/main_pic.jpg" alt="Losha Baklanov" width="50">
+<img src="/images/main_pic.jpg" alt="Losha Baklanov" width="300" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 
 ## Aleksei "Losha" Baklanov
 
-I am a [PhD student](https://linguistics.osu.edu/people/baklanov.1) at the department of Linguistics at the Ohio State University advised by Jessica Kantarovich.
+I am a [PhD student](https://linguistics.osu.edu/people/baklanov.1) at the department of Linguistics at the Ohio State University advised by [Jessica Kantarovich](https://linguistics.osu.edu/people/kantarovich.3).
 
+
+My research is currently focused on semantic properties of nominal temporality, namely, how inherent lexical features (relationality) interact with temporal modifiers like former, future, ex-, and -to-be. Generally, I am interested in different aspects of nominal temporality and nominal tense markers in particular: semantics, morphology, typology, and areal typology. 
 
