@@ -8,7 +8,7 @@ draft: false
 layout: "single"
 ---
 
-![Losha Baklanov](/images/main_pic.jpg?width=50px)
+<img src="/images/main_pic.jpg" alt="Losha Baklanov" width="50">
 
 ## Aleksei "Losha" Baklanov
 
