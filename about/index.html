@@ -144,7 +144,9 @@ Tomsk, Russia Tromsø, Norway Lyngen Alps, Norway Lewisburg, PA Siberia">
     width: 100%;
     /* 3. Change height to auto and replace 'cover' with 'contain' or remove it */
     height: auto;
-    object-fit: contain; 
+    max-height: 500px; /* Adjust this to change the absolute maximum height allowed */
+    object-fit: contain;
+    display: block; /* Removes weird baseline gaps at the bottom of images */
 }
 .slider-nav {
     display: flex;
