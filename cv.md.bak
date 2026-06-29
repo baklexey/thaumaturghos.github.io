@@ -7,3 +7,9 @@ draft: false
 
 layout: "single"
 ---
+
+You can access my CV below. 
+
+*Last update: Spring 2025*
+
+<embed src="/documents/cv_current.pdf" type="application/pdf" width="100%" height="800px" />
